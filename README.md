@@ -1,4 +1,4 @@
-##DIABETES DATA CLASSIFICATION
+## DIABETES DATA CLASSIFICATION
 
 ### PROJECT BRIEF
 
@@ -26,7 +26,11 @@ colaboratory was used for coding.
 
 ##### 1.KNN Algorithm-
 
+![image](https://user-images.githubusercontent.com/82037708/132680202-a68f9ed5-07ae-4dff-9836-9032717dd522.png)
+
 
 ##### 2.SVM-
+
+![image](https://user-images.githubusercontent.com/82037708/132680272-355a1c3d-331c-419a-a81b-00c8e0baedf1.png)
 
 
